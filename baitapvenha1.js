@@ -70,4 +70,4 @@ function countCharacter(b) {
 
 const input3 = "aaabbccbacccaab";
 const output3 = countCharacter(input3);
-console.log("bài 3: ", output3);
+console.log( output3);
